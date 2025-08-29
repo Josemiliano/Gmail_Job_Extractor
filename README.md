@@ -25,6 +25,8 @@ Download the ZIP project and extract it
 3. Copy it, you can set it in your shell as `OPENAI_API_KEY` //example at the bottom
 
 ### 2) Google credentials for Gmail API
+(I can add the first 100 test users on my own, please don't hesitate to reach out)
+(If you want it to be an independent venture, follow steps)
 Goal: create an OAuth Desktop App client in Google Cloud and place the downloaded JSON at src/main/resources/credentials.json.
 
 1. Create/select a Google Cloud project
