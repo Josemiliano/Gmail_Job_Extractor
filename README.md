@@ -1,4 +1,4 @@
-# Gmail Job Extractor
+# Gmail Job Extractor - Josemiliano Cohen
 
 Scans your Gmail for job application confirmations, extracts **Company**, **Position**, **Date**, **From**, **Subject**, and writes them to `job_applications.xlsx`. Results are ordered **from your cutoff date (`SEARCH_AFTER`) toward today**. It deduplicates by subject and uses content heuristics to avoid false positives.
 
@@ -13,6 +13,9 @@ Scans your Gmail for job application confirmations, extracts **Company**, **Posi
 - Maven
 - A Google Cloud OAuth client with Gmail API enabled, the downloaded `credentials.json`
 - An OpenAI API key
+
+## Getting Started
+Download the ZIP project and extract it
 
 ## Getting the keys
 
