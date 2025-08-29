@@ -1,5 +1,7 @@
 # Gmail Job Extractor - Josemiliano Cohen
 
+**License:** Non-Commercial (see LICENSE)
+
 Scans your Gmail for job application confirmations, extracts **Company**, **Position**, **Date**, **From**, **Subject**, and writes them to `job_applications.xlsx`. Results are ordered **from your cutoff date (`SEARCH_AFTER`) toward today**. It deduplicates by subject and uses content heuristics to avoid false positives.
 
 ## Features
