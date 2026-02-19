@@ -1,4 +1,5 @@
 # Gmail Job Extractor - Josemiliano Cohen
+# Personal Project - Actively scans email for job application confirmations and exports them into a categorized Excel with company, location, position, etc. 
 
 **License:** Non-Commercial (see LICENSE)
 
